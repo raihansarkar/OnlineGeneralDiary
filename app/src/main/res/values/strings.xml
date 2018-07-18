@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Online General Diary</string>
+
+    <string-array name="stationName">
+        <item>Adabor Police Station\nAddress: Adabor,Dhaka-1207\nMobile: 01849609902</item>
+        <item>Bonani Police Station\nAddress: Bonani,Dhaka-1207\nMobile: 222</item>
+        <item>Dhanmondi Police Station\nAddress: Dhanmondi,Dhaka-1207\nMobile: 123</item>
+        <item>Firmgate Police Station\nAddress: Firmgate,Dhaka-1207\nMobile: 456</item>
+        <item>Gulshan Police Station\nAddress: Gulshan,Dhaka-1207\nMobile: 789</item>
+        <item>Jigatola Police Station\nAddress: Jigatola,Dhaka-1207\nMobile: 101112</item>
+        <item>Kamalapur Police Station\nAddress: Kamalapur,Dhaka-1207\nMobile: 131415</item>
+        <item>Lalmatia Police Station\nAddress: Lalmatia,Dhaka-1207\nMobile: 161718</item>
+        <item>Mohammadpur Police Station\nAddress: Mohammadpur,Dhaka-1207\nMobile: 192021</item>
+        <item>Panthapath Police Station\nAddress: Panthapath,Dhaka-1207\nMobile: 222324</item>
+    </string-array>
+
+    <string-array name="policeStationNumber">
+        <item>01849609902</item>
+        <item>222</item>
+        <item>123</item>
+        <item>456</item>
+        <item>789</item>
+        <item>101112</item>
+        <item>131415</item>
+        <item>161718</item>
+        <item>192021</item>
+        <item>222324</item>
+    </string-array>
+</resources>

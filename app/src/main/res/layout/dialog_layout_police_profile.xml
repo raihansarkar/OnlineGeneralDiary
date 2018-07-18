@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Police Station Profile" />
+
+    <TextView
+        android:id="@+id/pstDioText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Police Station Text" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/callBtn"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50sp"
+            android:layout_height="30sp"
+            android:layout_weight="1"
+            android:background="@drawable/call"
+            android:elevation="10dp" />
+    </LinearLayout>
+
+</LinearLayout>

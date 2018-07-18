@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "595681281747",
+    "firebase_url": "https://fir-gd-9cf83.firebaseio.com",
+    "project_id": "fir-gd-9cf83",
+    "storage_bucket": "fir-gd-9cf83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595681281747:android:0d892ebe77a5393b",
+        "android_client_info": {
+          "package_name": "com.example.raihansarkar.onlinegeneraldiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595681281747-275upq9dr26cop349ihb5rlblva5te7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYqpjUo8iZ1YpMvtfIdYnCJgJUuVlVEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

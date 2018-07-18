@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PoliceStationActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:background="#c3cbda"
+        android:text="Police Stations Information"
+        android:gravity="center"
+        android:textColor="#ffffff"/>
+
+
+    <ListView
+        android:id="@+id/stationListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignEnd="@+id/searchViewId"
+        android:layout_alignRight="@+id/searchViewId"
+        android:layout_below="@+id/searchViewId"
+        android:background="#d0d9e9"/>
+
+</LinearLayout>
